@@ -1,0 +1,10 @@
+/********************************************
+# fileName      : fileSrc1.txt
+# Description   : The 1st file used to learn with git.
+# Author        : whig.
+# Date          : 2020-05-16
+=============================================
+# Version History
+Version     Date        Author      Note
+R0          2020-05-16  Whig        The 1st version.
+********************************************/
